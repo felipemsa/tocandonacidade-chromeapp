@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Tocando na Cidade",
+  "description": "Acompanhe o streaming da rádio cidade 102.9. O que é bom é pra sempre!",
+  "version": "0.1",
+  "icons": { "16": "images/logo-cidade.png", "128": "images/logo-cidade.png" },
+  "browser_action": {
+    "default_icon": "images/logo-cidade.png",
+    "default_popup": "popup.html"
+  },
+  "permissions" : [
+  	"http://www.radiocidade.fm/"
+  ],
+  "web_accessible_resources": [
+    "images/*.png"
+  ]
+}
