@@ -1,5 +1,5 @@
 div.content {
-    width: 500px;
+    width: 450px;
 }
 div.image {
     border-radius: 30px;
@@ -7,11 +7,14 @@ div.image {
     height: 72px;
     background: url('../images/ela-voltou.jpeg');
     float: left;
-    margin: 10px;
+    margin-right: 10px;
 }
 div.text {
-    margin-top: 20px;
-    float: left;
+    padding: 5px;
+    height: 72px;
+}
+div.config {
+    text-align: right;
 }
 a {
     font-family: sans-serif;
