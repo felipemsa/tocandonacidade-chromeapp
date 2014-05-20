@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Tocando na Cidade",
+  "name": "Tocando na Cidade - dev",
   "description": "Veja aqui o que está tocando na Rádio Cidade 102.9. O que é bom é pra sempre!",
   "version": "1.1",
   "icons": { "16": "images/logo-cidade.png", "128": "images/logo-cidade.png" },

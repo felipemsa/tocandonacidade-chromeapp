@@ -2,9 +2,9 @@ div.content {
     width: 450px;
 }
 div.image {
-    border-radius: 30px;
-    width: 72px;
-    height: 72px;
+    border-radius: 20px;
+    width: 65px;
+    height: 65px;
     background: url('../images/ela-voltou.jpeg');
     float: left;
     margin-right: 10px;
@@ -21,13 +21,21 @@ a {
     text-decoration: none;
     color: black;
 }
+strong {
+    font-size: 16px;
+}
 a:hover strong {
     text-decoration: underline;
+    font-size: 16px;
 }
 .grey {
     color: #8899a6;
+    font-size: 14px;
+}
+.song-info {
+    font-size: 14px;
 }
 .song-info a {
     color: #3b88c3;
-    font-size: 14px;
+    font-size: 12px;
 }
